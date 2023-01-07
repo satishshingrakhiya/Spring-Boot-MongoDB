@@ -1,6 +1,6 @@
 This is basic Spring Boot Project to use CRUD operations and MongoDB as Database
 
-###Prerequisite
+### Prerequisite
 
 1. Java
 2. MongoDB Atlas Account
